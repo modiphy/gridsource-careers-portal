@@ -50,11 +50,11 @@ body header[theme]>section .header-titles {
   flex-direction: row;
   padding: 0;
   max-width: none;
-  width: 256px;
+  width: 240px;
   height: 48px;
-  background-image: url('https://fluxconsole.com/files/item/1165/199796/GridSource-Logo-White-CMYK-Transparent%20(2).png');
+  background-image: url('https://fluxconsole.com/files/item/1165/199797/careers-portal-logo.png');
   background-position: 0 0;
-  background-size: 256px 48px;
+  background-size: 240px 48px;
   cursor: pointer;
 }
 
